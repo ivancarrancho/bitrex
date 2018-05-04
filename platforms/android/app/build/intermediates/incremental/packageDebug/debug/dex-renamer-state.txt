@@ -1,0 +1,4 @@
+#Thu May 03 22:43:24 COT 2018
+base.0=/Users/ivan/Documents/projects/bitrex/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/Users/ivan/Documents/projects/bitrex/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
